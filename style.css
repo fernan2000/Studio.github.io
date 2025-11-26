@@ -1,0 +1,41 @@
+.main-container{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    background-color: #19829a;
+    border-radius: 5px;
+    padding: 2rem;
+}
+
+.image-container:hover{
+    background-color: aqua;
+    scale: 1.3;
+    transition: all 0.5s ease-in-out;
+}
+.image-container{
+    width: 50%;
+    transition: all 0.5s ease-in-out;
+}
+
+.image-container:hover{
+    scale: 1.3;
+    transition: all 0.5s ease-in-out;
+}
+
+.image-container img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.list-container{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+
+.list-container li:hover{
+    scale: 1.3;
+    font-size: large;
+    color: crimson;
+    transition: all 0.5s ease-in-out;
+}
