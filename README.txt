@@ -78,8 +78,7 @@ COSAS QUE ME COSTARON TRABAJO
 COMO VER MI PAGINA
 ==================
 
-1. Ve a mi repositorio en GitHub: 
-2. O ve directo a mi pagina publicada: 
+1. Ve a mi repositorio en GitHub: https://github.com/fernan2000/Pagina-web.github.io
 3. También puedes descargar los archivos y abrir index.html en tu navegador
 
 MI EXPERIENCIA
